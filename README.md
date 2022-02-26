@@ -1,6 +1,7 @@
 # Covox-Speech-Thing
 Covox Speech Thing Clone
 
+<img src="https://github.com/jdgabbard/Covox-Speech-Thing/raw/main/Photos/Covox.jpg"/>
 
 This repository is a clone of the Covox Speech Thing designed to fit inside of a DB25 Plastic Hood.  There are two different versions provided.
 
